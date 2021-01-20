@@ -4,7 +4,8 @@ white_header: true
 sections:
   - type: hero_section
     section_id: hero_section
-    background_image: images/header.jpg
+    background_image: >-
+      images/Serie-MEX-de-maquinas-para-co-extrusion-y-soplado-de-pelicula-multicapa-de-Mamata-GR.jpg
     content: >-
       # Real, beautiful plants right to your door
 
