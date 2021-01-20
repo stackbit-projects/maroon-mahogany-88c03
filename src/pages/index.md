@@ -9,7 +9,7 @@ sections:
       # Excellence in Flexible Packaging
 
     actions:
-      - title: See all items
+      - title: ''
         url: /store
         arrow: true
   - type: featured_products_section
