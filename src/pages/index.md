@@ -4,8 +4,7 @@ white_header: true
 sections:
   - type: hero_section
     section_id: hero_section
-    background_image: >-
-      images/Serie-MEX-de-maquinas-para-co-extrusion-y-soplado-de-pelicula-multicapa-de-Mamata-GR.jpg
+    background_image: images/Treofan-30m-five-layer-label-and-packaging-film-plant.jpg
     content: |+
       # Excellence in Flexible Packaging
 
