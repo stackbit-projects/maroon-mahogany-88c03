@@ -5,9 +5,8 @@ sections:
   - type: hero_section
     section_id: hero_section
     background_image: images/Treofan-30m-five-layer-label-and-packaging-film-plant.jpg
-    content: |+
-      # Excellence in Flexible Packaging
-
+    content: |
+      # **Excellence in Flexible Packaging**
     actions:
       - title: ''
         url: /store
