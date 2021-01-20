@@ -6,11 +6,9 @@ sections:
     section_id: hero_section
     background_image: >-
       images/Serie-MEX-de-maquinas-para-co-extrusion-y-soplado-de-pelicula-multicapa-de-Mamata-GR.jpg
-    content: >-
-      # Real, beautiful plants right to your door
+    content: |+
+      # Excellence in Flexible Packaging
 
-      Don't forget to add your Snipcart API key to the site's configuration to
-      enable Cart actions.
     actions:
       - title: See all items
         url: /store
